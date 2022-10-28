@@ -10,7 +10,6 @@ def ReturnJson():
             "age": 19,
             "bio": "I am an undergraudate and i love to write code"
         }
-
     
         return jsonify(data)
 
